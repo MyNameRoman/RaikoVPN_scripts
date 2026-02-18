@@ -73,11 +73,6 @@ chmod +x *.sh
 ```bash
 0 1 * * * /path/to/update_geo.sh
 ```
-
-## 💬 Поддержка
-- Telegram: [@Chamomile211](http://t.me/Chamomile211)
-- Issues: [GitHub Issues](https://github.com/MyNameRoman/RaikoVPN_scripts/issues)
-
 ---
 
 # English Version
@@ -141,7 +136,3 @@ Required:
 ```bash
 0 1 * * * /path/to/update_geo.sh
 ```
-
-## 💬 Support
-- Telegram: [@Chamomile211](http://t.me/Chamomile211)
-- Issues: [GitHub Issues](https://github.com/MyNameRoman/RaikoVPN_scripts/issues)
